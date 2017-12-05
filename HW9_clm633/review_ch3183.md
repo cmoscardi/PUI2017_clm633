@@ -10,7 +10,6 @@ Units: I find the choice of 00 - 23 confusing for time, but this probably depend
 
 # FBB something you misssed: the red and blue bar are switcehd (left to right) more than once with no reason. That is an element of confusion.
 
-
 #### ESTHETIC: beautiful is a subjective judgment: you should not judge the plot on the basis of whether you think it is "beautiful", but you should judge whether its esthetic is functional to what it is meant to communicate. Are the colors chosen appropriately? Are the graphical elements used appropriate to represent the quantities being visualized? Are the graphical choices allowing you to focus on the right elements or are they distracting you?
 
 I think the bars are quite narrow - I find bar charts easier to read when the bars are wider.
@@ -30,6 +29,7 @@ Why is the balance change plot in greyscale? I'd probably use a color there too.
 # FBB it is generally not a good idea to represent the same feature in more than one way (what you are suggesting is to show the same trend in size-height- and color)
 You could even use color to highlight magnitude.
 
+# FBB the gay band on the top and left (likely there because this is a screenshot) is distracting
 
 #### HONESTY: is the plot honestly reproducing the data or is it deforming it, perhaps to emphasize a point?
 I think this plot is honest. It takes averages at each hour across some timeframe - that timeframe is unknown, which is mostly confusing but could also distort the visualization depending on the choice and the viewer's expectation. Given that the caption indicates we should notice commuter patterns, including weekend days may distort that pattern.
