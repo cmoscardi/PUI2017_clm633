@@ -35,6 +35,7 @@ You could even use color to highlight magnitude.
 I think this plot is honest. It takes averages at each hour across some timeframe - that timeframe is unknown, which is mostly confusing but could also distort the visualization depending on the choice and the viewer's expectation. Given that the caption indicates we should notice commuter patterns, including weekend days may distort that pattern.
 
 
+# FBB
 Also: 
 *esthetics* the plots should share the x axis, since it is the same. the top plot should not have x ticks and label, and the space between the plots should be removed. This would encourage visual comparison without loss of information
 
